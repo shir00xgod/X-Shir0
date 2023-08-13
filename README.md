@@ -31,7 +31,7 @@ Mari terhubung! Anda bisa menghubungi saya melalui:
 
 - Email: <a href="mailto:znxthunder@email.com">Gmail</a>
 - Telegram: <a href="t.me/Kurodenshiii">Profil Telegram</a>
-- Telegram: <a href="t.me/KurodenshiiiCh">Channel Telegram</a>
+- Channel Telegram: <a href="t.me/KurodenshiiiCh">Channel Telegram</a>
 - Instagram: <a href="instagram.com/kurodenshiii">Profil Instagram</a>
 
 Terima kasih telah mengunjungi profil GitHub saya!
