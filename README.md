@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img width="256" height="256" src="https://i.pinimg.com/originals/6a/c8/d0/6ac8d0b73727224f00fd288d97a95601.jpg">
+</p>
+
 # Profil GitHub Saya
 
 Selamat datang di profil GitHub saya! Saya senang bisa berbagi proyek dan kontribusi saya di sini.
