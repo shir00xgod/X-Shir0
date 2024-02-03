@@ -9,7 +9,7 @@ Selamat datang di profil GitHub saya! Saya senang bisa berbagi proyek dan kontri
 
 ## Tentang Saya
 
-Saya adalah <b>Kurodenshiii</b>. Saya memiliki minat dalam <i>gabud ngoding</i>, dan saya suka berkontribusi dalam proyek-proyek terbuka tetapi kebanyakan tertutup awoakowakwo.
+Saya adalah <b>Shiro</b>. Saya memiliki minat dalam <i>gabud ngoding</i>, dan saya suka berkontribusi dalam proyek-proyek terbuka tetapi kebanyakan tertutup awoakowakwo.
 
 ## Hubungi Saya
 
