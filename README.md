@@ -15,8 +15,6 @@ Saya adalah <b>Shiro</b>. Saya memiliki minat dalam <i>gabud ngoding</i>, dan sa
 
 Mari terhubung! Anda bisa menghubungi saya melalui:
 
-- Email: <a href="mailto:znxthunder@email.com">Gmail</a>
 - Telegram: <a href="t.me/shinsegiru">Profil Telegram</a>
-- Instagram: <a href="t.me/zxqzdewa_">Channel Telegram</a>
 
 Terima kasih telah mengunjungi profil GitHub saya!
